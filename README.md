@@ -2,6 +2,13 @@
  Занятия по разбору подходов асинхронного кода (import,export), + WebPack
 
 
+Languages and Tools:
+Flutter Dart Firebase TensorFlow JavaScript .Net C++ Sql
+
+Follow Me:
+YouTube Telegram Instagram LinkedIn Vkontakte Twitter Facebook
+
+
 🌱 I’m currently learning web-development in Geekbrains
 
 📫 How to reach me:
