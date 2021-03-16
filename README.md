@@ -13,6 +13,6 @@
 </a>    
 <a href="https://github.com/ereminmaksim/ereminmaksim.github.io">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ereminmaksim&repo=anuraghazra.github.io&theme=radical" />
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ereminmaksim&repo=anuraghazra.github.io&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ereminmaksim&repo=ereminmaksim.github.io&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ereminmaksim&repo=ereminmaksim.github.io&theme=material-palenight" />
 </a>
