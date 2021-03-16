@@ -1,6 +1,8 @@
 # WebProjectBuildTools
  Занятия по разбору подходов асинхронного кода (import,export), + WebPack
 
+[![Header](https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/header.png)](https://www.youtube.com/channel/UC-8PllPkjOrFCX-_zDriTJQ)
+
 
 Languages and Tools:
 Flutter Dart Firebase TensorFlow JavaScript .Net C++ Sql
