@@ -1,7 +1,7 @@
 # WebProjectBuildTools
  Занятия по разбору подходов асинхронного кода (import,export), + WebPack
 
-[![Header](https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/header.png)]
+![Header](https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/header.png)
 
 
 Languages and Tools:
